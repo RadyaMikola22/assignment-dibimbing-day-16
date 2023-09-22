@@ -7,6 +7,6 @@
 ```
 Airflow Variables
 gcp_project = dev-fiber-399503
-gcs_bucket = 	gs://dev-fiber-399503
+gcs_bucket = gs://dev-fiber-399503
 gce_zone = us-central-1b
 ```
